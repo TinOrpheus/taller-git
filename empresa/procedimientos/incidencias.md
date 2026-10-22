@@ -8,10 +8,14 @@ Cuando alguien avisa de un problema:
 
 ## Registro
 
-| Fecha | Equipo | Problema | Solución | Técnico |
-|-------|--------|----------|----------|---------|
-| 06/10/2026 | pc-admin-02 | No arranca: pantalla negra | Cable de vídeo suelto | Javi |
-| 07/10/2026 | imp-recepcion | Atasco de papel continuo | Cambiado el rodillo de arrastre | Ana |
-| 08/10/2026 | pc-recepcion | Va muy lento al abrir el correo | Ampliada la RAM a 16GB | Javi |
-| 22/10/2026 | pc-aula1-03 | No detecta el ratón | Cambiado de puerto USB | Jesús A |
-| 22/10/2026 | impresora-oficina | Atasco de papel | Limpiado rodillos | Jesús B |
+|Fecha|Equipo|Problema|Solución|Técnico|
+|-|-|-|-|-|
+|06/10/2026|pc-admin-02|No arranca: pantalla negra|Cable de vídeo suelto|Javi|
+|07/10/2026|imp-recepcion|Atasco de papel continuo|Cambiado el rodillo de arrastre|Ana|
+|08/10/2026|pc-recepcion|Va muy lento al abrir el correo|Ampliada la RAM a 16GB|Javi|
+|22/10/2026|pc-aula1-03|No detecta el ratón|Cambiado de puerto USB|Jesús A|
+|22/10/2026|impresora-oficina|Atasco de papel|Limpiado rodillos|Jesús B|
+|22/10/2026|impresora-oficina|Atasco de papel|Limpiado rodillos|Jesús D|
+
+
+
